@@ -51,6 +51,10 @@ Technologies Used:
 License
 - This project is available under the MIT License
 
+Use on Render:
+- Link to live backend on Render: https://weather-dashboard-api-z8xv.onrender.com
+- Link to live Frontend Application: https://weather-dashboard-api-app.onrender.com/
+
 Contact
 - Maxwell Hurst
 - Email: maxwell.hurst22@gmail.com
