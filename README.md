@@ -30,12 +30,12 @@ Usage
 - Navigate to the Backend Server within the project folder and run "npm run dev". Must be running to make API calls.
 - Navigate to the Frontend Client folder within the project root folder and run "npm run dev"
 - Visit http://localhost:3000/ or load the application on Render to use the weather dashboard
+- Visit https://weather-dashboard-api-app.onrender.com/ to use the live application on Render
 
 Testing
 - Test the Backend API using Postman:
 1. POST /api/weather with a city name
 2. GET /api/weather/history to see stored searches
-
 - Test the Frontend either on Render or on your localhost:
 1. Inspect the page on your Google Chrome browser
 2. Search for a city
