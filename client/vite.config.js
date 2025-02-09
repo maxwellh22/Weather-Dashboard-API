@@ -7,7 +7,7 @@ export default defineConfig({
     open: true,
     proxy: {
       '/api': {
-        target: 'http://localhost:3001',
+        target: 'https://weather-dashboard-api-z8xv.onrender.com',
         changeOrigin: true,
         secure: false,
       },
